@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Murach_book_web:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Murach_book_web_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Murach_book_web/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Murach_book_web" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
